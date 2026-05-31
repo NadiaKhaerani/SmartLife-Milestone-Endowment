@@ -196,9 +196,9 @@ SmartLife Milestone Endowment
 </div>
 
 <div class="hero-sub">
-Advanced actuarial pricing engine with mortality modeling,
-multiple decrement, milestone benefits, premium calculation,
-and prospective reserve projection.
+Actuarial pricing model with mortality assumptions,
+multiple decrement analysis, milestone benefits,
+premium calculation, and reserve projection.
 </div>
 
 </div>
